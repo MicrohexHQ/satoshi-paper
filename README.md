@@ -1,2 +1,3 @@
-# shatoshi-paper
-Original Shatoshi paper in various formats
+# satoshi-paper
+
+Original Satoshi paper in various formats
